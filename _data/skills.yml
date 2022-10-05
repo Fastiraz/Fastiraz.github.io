@@ -22,6 +22,7 @@ tools:
   - item: Vulnerabilities detection
   - item: OSInt
   - item: Reverse Engineering
+  - item: Cryptography
   - item: Lockpicking
   - item: BadUSB
   - item: Access badge cloning
