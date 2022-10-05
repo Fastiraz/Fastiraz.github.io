@@ -9,7 +9,7 @@ frameworks:
   - item: Docker
   - item: OS Hardening
   - item: MySQL/MariaDB
-  - item: Hosting (Assetto Corsa, FiveM, Minecraft, Python & NodeJS bots)
+  - item: Hosting
   - item: Nextcloud
 
 tools:
