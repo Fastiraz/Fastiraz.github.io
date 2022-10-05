@@ -1,33 +1,30 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
+  - item: C#
+  - item: C/C++
   - item: Python
   - item: SQL
-  - item: R
+  - item: Assembly
 
 frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+  - item: Docker
+  - item: OS Hardening
+  - item: MySQL/MariaDB
+  - item: Hosting (Assetto Corsa, FiveM, Minecraft, Python & NodeJS bots)
+  - item: Nextcloud
 
 tools:
-  - item: Bash
-  - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
+  - item: Brute Force
+  - item: LFI/RFI
+  - item: Injection SQL/XSS
+  - item: Reverse Shell
+  - item: MiTM
+  - item: Vulnerabilities detection
+  - item: OSInt
+  - item: Reverse Engineering
+  - item: Lockpicking
+  - item: BadUSB
+  - item: Access badge cloning
 
 design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+  - item: Active Directory
+  - item: WSUS
