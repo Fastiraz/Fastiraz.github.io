@@ -4,6 +4,7 @@ languages:
   - item: Python
   - item: SQL
   - item: Assembly
+  - item: Lua
 
 frameworks:
   - item: Docker
