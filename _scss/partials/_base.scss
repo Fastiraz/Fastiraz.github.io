@@ -18,18 +18,18 @@ body {
   padding: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: $white;
+  background-color: $night;
   color: $dark-grey;
   font-family: $Apercu;
   line-height: 1.5;
   width: 100%;
 
   &.night {
-    background-color: $night;
+    background-color: $white;
     color: $slate;
     ::selection {
       color: $black;
-      background: $yellow;
+      background: #FC273F;;
     }
     .switch-wrapper {
       .sun {
