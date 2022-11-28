@@ -9,6 +9,14 @@
     - thing: C
     - thing: API
 
+- name: Documentations
+  url: https://fastiraz.gitbook.io/doc/
+  code: https://fastiraz.gitbook.io/doc/
+  description: A python script for brute force any protocols, files, URLs & simulate custom keystrokes.
+  used:
+    - thing: MarkDown
+    - thing: Text
+
 - name: BForce
   url: https://github.com/Fastiraz/Brute-Force
   code: https://github.com/Fastiraz/Brute-Force
@@ -61,6 +69,35 @@
 #   - thing: Backbone
 #   - thing: Marionette
 #   - thing: Cordova
+
+- name: hashcrack.
+  url: https://github.com/bchiang7
+  code: https://github.com/bchiang7
+  description: A remade of hashcat just for fun and practice.
+  used:
+    - thing: C
+
+- name: Keylogger.
+  url: https://github.com/Fastiraz/keylogger/
+  code: https://github.com/Fastiraz/keylogger/
+  description: A python keylogger wich it send data by sockets.
+  used:
+    - thing: Python
+
+- name: Cearch.
+  url: http://fastiraz.epizy.com/error/error.html
+  code: http://fastiraz.epizy.com/error/error.html
+  description: An equivalent of GoBuster or DirSearch on C.
+  used:
+    - thing: C
+    - thing: TEXT
+
+- name: ANSSI Password Generator.
+  url: https://github.com/Fastiraz/ANSSI-Password-Generator
+  code: https://github.com/Fastiraz/ANSSI-Password-Generator
+  description: A cSharp script that allow you to generate password that fit with ANSSI recommandation.
+  used:
+    - thing: C#
 
 - name: This website.
   url: https://github.com/bchiang7
