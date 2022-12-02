@@ -9,8 +9,13 @@ email: F@gmail.com
 logo: https://Fastiraz.github.io/img/me.png
 #resume: https://bchiang7.github.io/resume.pdf
 social:
+<<<<<<< HEAD
   - title: email
     url: mailto:F@gmail.com
+=======
+  - title: discord
+    url: https://discord.gg/khaUkXxneH
+>>>>>>> 07db6836be9d2bc2f5c9d4dc179c55138212d902
   - title: github
     url: https://github.com/Fastiraz
   - title: docker
@@ -21,10 +26,6 @@ social:
     url: https://twitter.com/Fastiraz
   - title: instagram
     url: https://www.instagram.com/fastiraz/
-  #- title: codepen
-  #  url: http://codepen.io/bchiang7
-  #- title: linkedin
-  #  url: https://www.linkedin.com/in/bchiang7
 
 # Build settings
 markdown: kramdown

@@ -9,7 +9,7 @@ html {
 }
 
 ::selection {
-  background: #FC273F;/*$yellow;*/
+  background: $loveit;/*$yellow;*/
 }
 
 html,
@@ -19,7 +19,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: $night;
-  color: $dark-grey;
+  color: $black;
   font-family: $Apercu;
   line-height: 1.5;
   width: 100%;
@@ -28,8 +28,8 @@ body {
     background-color: $white;
     color: $slate;
     ::selection {
-      color: $black;
-      background: #FC273F;;
+      color: $dark-grey;
+      background: $loveit;;
     }
     .switch-wrapper {
       .sun {

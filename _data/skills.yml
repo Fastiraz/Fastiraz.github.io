@@ -30,3 +30,4 @@ tools:
 design:
   - item: Active Directory
   - item: WSUS
+  - item: Video Monitoring Server
