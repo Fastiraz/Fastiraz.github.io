@@ -4,13 +4,13 @@ title: Fastiraz
 description: Just a student with dreams to achieve.
 url: https://Fastiraz.github.io/
 baseurl: ''
-email: Fastiraz@gmail.com
+email: F@gmail.com
 #cover: https://bchiang7.github.io/img/og.png
 logo: https://Fastiraz.github.io/img/me.png
 #resume: https://bchiang7.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:Fastiraz@gmail.com
+    url: mailto:F@gmail.com
   - title: github
     url: https://github.com/Fastiraz
   - title: docker
