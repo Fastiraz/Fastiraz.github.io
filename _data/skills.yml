@@ -10,8 +10,10 @@ frameworks:
   - item: Docker
   - item: OS Hardening
   - item: MySQL/MariaDB
-  - item: Hosting
+  - item: Self-Hosting
   - item: Nextcloud
+  - item: Apache2
+  - item: and more...
 
 tools:
   - item: Brute Force
@@ -31,3 +33,10 @@ design:
   - item: Active Directory
   - item: WSUS
   - item: Video Monitoring Server
+  - item: Genetec
+  - item: Symmetry
+  - item: Milestone
+  - item: IIS
+  - item: DHCP
+  - item: DNS
+  
