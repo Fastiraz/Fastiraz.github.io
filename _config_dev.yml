@@ -4,28 +4,25 @@ title: Fastiraz
 description: Just a student with dreams to achieve.
 url: https://Fastiraz.github.io/
 baseurl: ''
-email: F@gmail.com
-#cover: https://bchiang7.github.io/img/og.png
+email: 
+#cover: https://Fastiraz.github.io/img/og.png
 logo: https://Fastiraz.github.io/img/me.png
-#resume: https://bchiang7.github.io/resume.pdf
+#resume: https://Fastiraz.github.io/resume.pdf
 social:
-<<<<<<< HEAD
-  - title: email
-    url: mailto:F@gmail.com
-=======
+  #- title: email
+  #  url: mailto:
   - title: discord
     url: https://discord.gg/khaUkXxneH
->>>>>>> 07db6836be9d2bc2f5c9d4dc179c55138212d902
   - title: github
     url: https://github.com/Fastiraz
-  - title: docker
-    url: https://hub.docker.com/u/fastiraz
+  #- title: docker
+  #  url: https://hub.docker.com/u/fastiraz
   - title: replit
     url: https://replit.com/@Fastiraz
   - title: twitter
     url: https://twitter.com/Fastiraz
-  - title: instagram
-    url: https://www.instagram.com/fastiraz/
+  #- title: instagram
+  #  url: https://www.instagram.com/fastiraz/
 
 # Build settings
 markdown: kramdown
