@@ -12,7 +12,7 @@
 - name: Documentations
   url: https://fastiraz.gitbook.io/doc/
   code: https://fastiraz.gitbook.io/doc/
-  description: A python script for brute force any protocols, files, URLs & simulate custom keystrokes.
+  description: A documentations for hacking, self-hosted servers, dev...
   used:
     - thing: MarkDown
     - thing: Text
@@ -20,7 +20,7 @@
 - name: BForce
   url: https://github.com/Fastiraz/Brute-Force
   code: https://github.com/Fastiraz/Brute-Force
-  description: A python script for brute force any protocols, files, URLs & simulate custom keystrokes.
+  description: A python script for brute force most common protocols, files, URLs & simulate custom keystrokes.
   used:
     - thing: Python
     - thing: Text
@@ -33,8 +33,8 @@
     - thing: Python
 
 - name: hashcrack.
-  url: https://github.com/bchiang7
-  code: https://github.com/bchiang7
+  url: https://github.com/Fastiraz/HashCrack
+  code: https://github.com/Fastiraz/HashCrack
   description: A remade of hashcat just for fun and practice.
   used:
     - thing: C
@@ -62,28 +62,28 @@
     - thing: C#
 
 - name: Light (private)
-  url: https://github.com/Fastiraz/
-  code: https://github.com/Fastiraz/
+  url: http://fastiraz.epizy.com/error/error.html
+  code: http://fastiraz.epizy.com/error/error.html
   description: A software who allow you to manage light and smoke with DMX protocol.
   used:
     - thing: C# Windows Form
     - thing: XML
 
 - name: Velocity (private)
-  url: https://github.com/Fastiraz/Velocity/
-  code: https://github.com/Fastiraz/Velocity/
+  url: http://fastiraz.epizy.com/error/error.html
+  code: http://fastiraz.epizy.com/error/error.html
   description:
     A FiveM server full optimized on RageUI with exclusives mappings and scripts.
   used:
     - thing: LUA
     - thing: C
-    - thing: SQL
+    - thing: MySQL
     - thing: C#
 
 - name: Zeta (private)
-  url: https://github.com/Fastiraz/Zeta
-  code: https://github.com/Fastiraz/Zeta
-  description: SFTP software with UI/UX design.
+  url: http://fastiraz.epizy.com/error/error.html
+  code: http://fastiraz.epizy.com/error/error.html
+  description: SFTP software with modern design.
   img: weather
   used:
     - thing: C#
