@@ -1,7 +1,7 @@
 - name: Softybox (private)
   url: https://github.com/Fastiraz/Softybox
   code: https://github.com/Fastiraz/Softybox
-  description: A toolbox for pentester as a Windows software with a UI.
+  description: A toolbox for pentester as a Windows software with an UI.
   used:
     - thing: C# Windows Form
     - thing: XML
