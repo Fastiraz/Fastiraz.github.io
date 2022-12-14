@@ -3,8 +3,31 @@ layout: not_found
 title: 404
 permalink: /404.html
 ---
-{% include switch.html %}
+<!--{% include switch.html %}
 <div class="name">Brittany Chiang</div>
 <img src="{{site.baseurl}}/img/emojis/thinking-face.png" alt="">
 <h1>Hmmm...</h1>
-<h2>Looks like there's nothing here.<br>Maybe you should go back <a href="{{site.url}}">home</a>.</h2>
+<h2>Looks like there's nothing here.<br>Maybe you should go back <a href="{{site.url}}">home</a>.</h2>-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="./css/error.css" rel="stylesheet">
+        <title>404</title>
+    </head>
+    <body>
+        <section class="notFound">
+            <div class="img">
+            <img src="https://assets.codepen.io/5647096/backToTheHomepage.png" alt="Back to the Homepage"/>
+            <img src="https://assets.codepen.io/5647096/Delorean.png" alt="El Delorean, El Doc y Marti McFly"/>
+            </div>
+            <div class="text">
+            <h1>404</h1>
+            <h2>PAGE NOT FOUND</h2>
+            <h3>BACK TO HOME?</h3>
+            <a href="../index.html" class="yes">YES</a>
+            <a href="https://www.youtube.com/watch?v=G3AfIvJBcGo">NO</a>
+            </div>
+        </section>
+    </body>
+</html>
