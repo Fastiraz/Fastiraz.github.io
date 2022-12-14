@@ -11,6 +11,8 @@ logo: https://Fastiraz.github.io/img/me.png
 social:
   #- title: email
   #  url: mailto:
+  - title: Doc
+    url: https://fastiraz.gitbook.io/doc/
   - title: discord
     url: https://discord.gg/khaUkXxneH
   - title: github
