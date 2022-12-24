@@ -91,7 +91,8 @@ banner = [
   "#################################################################",
   '<br>',
   '<span class="color2">Welcome agent...</span>',
-  "<span class=\"color2\">We need you talent, your mission, </span> <span class=\"command\">'hack it'</span><span class=\"color2\">.</span>",
+  "<span class=\"color2\">We need your talent, your mission, </span> <span class=\"error\">hack</span><span class=\"color2\"> the server.</span>",
+  "<span class=\"color2\">For a list of available commands, type </span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
 ];
 
 list = [
@@ -100,9 +101,3 @@ list = [
     "boot  etc  lib  lib64  mnt  opt  root  sbin  sys  usr  var",
     "<br>",
   ];
-
-cd = [
-    "<br>",
-    "Nop, i'm to lazy to dev this function.",
-    "<br>",
-];

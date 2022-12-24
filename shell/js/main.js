@@ -162,7 +162,7 @@ function commander(cmd) {
         loopLines(list, "color2 margin", 80);
         break;
     case "cd":
-        loopLines(cd, "color2 margin", 80);
+        addLine("<span class=\"inherit\"> Nop, i'm to lazy to dev this function. 😂</span>", "error", 100);
         break
     default:
       addLine("<span class=\"inherit\">Command not found. For a list of commands, type <span class=\"command\">'help'</span>.</span>", "error", 100);
