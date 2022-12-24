@@ -69,6 +69,8 @@ help = [
   '<span class="command">banner</span>         Display the header',
   '<span class="command">ls</span>             List files and directories',
   '<span class="command">cd</span>             Change directory',
+  '<span class="command">pwd</span>            Print working directory',
+  '<span class="command">hostname</span>       Get hostname',
   "<br>",
 ];
 
