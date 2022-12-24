@@ -36,3 +36,7 @@ function moveIt(count, e) {
 function alert(txt) {
   console.log(txt);
 }
+
+function b64_to_utf8(str) {
+  return decodeURIComponent(escape(window.atob(str)));
+}

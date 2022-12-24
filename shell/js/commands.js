@@ -1,11 +1,13 @@
 var youtube = "https://www.youtube.com/Fastiraz/";
 var twitter = "https://www.twitter.com/Fastiraz/";
-var password = "fkcodes";
+var password = "eW91IGhhdmUgZmFpbGVkIHRoaXMgY2l0eQ==";
+var decrypted = b64_to_utf8(password);
 var doc = "https://fastiraz.gitbook.io/doc/";
 var instagram = "https://www.instagram.com/Fastiraz/";
 var github = "https://github.com/Fastiraz/";
 var email = 'mailto:forrest@fkcodes.com';
 var discord = "https://discord.com/invite/khaUkXxneH";
+var hacked = "https://www.youtube.com/watch?v=UkoqIlppfhc";
 
 whois = [
   "<br>",
@@ -101,3 +103,10 @@ list = [
     "boot  etc  lib  lib64  mnt  opt  root  sbin  sys  usr  var",
     "<br>",
   ];
+
+resultpwd = [
+  "<br>",
+  "Agent, you found the password !",
+  "<span class=\"color2\">Know to get your reward, </span> <span class=\"command\">'decrypt'</span><span class=\"color2\"> it.</span>",
+  "<br>",
+];

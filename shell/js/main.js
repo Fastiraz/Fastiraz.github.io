@@ -164,6 +164,19 @@ function commander(cmd) {
     case "cd":
         addLine("<span class=\"inherit\"> Nop, i'm to lazy to dev this function. 😂</span>", "error", 100);
         break
+    case "pwd":
+      addLine("<span class=\"inherit\"> /home/agent</span>", "error", 100);
+      break
+    case "hostname":
+      addLine("<span class=\"inherit\"> secret-service</span>", "error", 100);
+      break
+    case "eW91IGhhdmUgZmFpbGVkIHRoaXMgY2l0eQ==":
+      loopLines(resultpwd, "color2 margin", 80);
+      break;
+    case decrypted:
+      addLine("<br><span class=\"inherit\">Bro, you did it! You hacked the server!\nJoin the discord server to get your <span class=\"command\">gift</span>.</span>", "error", 100);
+      newTab(hacked);
+      break
     default:
       addLine("<span class=\"inherit\">Command not found. For a list of commands, type <span class=\"command\">'help'</span>.</span>", "error", 100);
       break;
