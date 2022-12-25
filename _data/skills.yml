@@ -2,9 +2,11 @@ languages:
   - item: C#
   - item: C/C++
   - item: Python
+  - item: Bash
   - item: SQL
   - item: Assembly
   - item: Lua
+  - item: JS
 
 frameworks:
   - item: Docker
@@ -13,12 +15,14 @@ frameworks:
   - item: Self-Hosting
   - item: Nextcloud
   - item: Apache2
+  - item: pfSense FW
+  - item: OpenVPN
   - item: and more...
 
 tools:
   - item: Brute Force
-  - item: LFI/RFI
-  - item: Injection SQL/XSS
+  - item: LFI/RFI/RCE
+  - item: SQL/XSS Injection
   - item: Reverse Shell
   - item: MiTM
   - item: Vulnerabilities detection
@@ -28,6 +32,7 @@ tools:
   - item: Lockpicking
   - item: BadUSB
   - item: Access badge cloning
+  - item: DoS
 
 design:
   - item: Active Directory
