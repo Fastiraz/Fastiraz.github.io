@@ -62,17 +62,26 @@
   used:
     - thing: C#
 
+- name: Shell
+  url: https://fastiraz.github.io/shell/
+  code: https://fastiraz.github.io/shell/
+  description: A shell as a web page with some easter eggs.
+  used:
+    - thing: HTML
+    - thing: CSS
+    - thing: JS
+
 - name: Light (private)
-  url: http://fastiraz.epizy.com/error/error.html
-  code: http://fastiraz.epizy.com/error/error.html
+  url: https://fastiraz.github.io/404.html
+  code: https://fastiraz.github.io/404.html
   description: A software who allow you to manage light and smoke with DMX protocol.
   used:
     - thing: C# Windows Form
     - thing: XML
 
 - name: Velocity (private)
-  url: http://fastiraz.epizy.com/error/error.html
-  code: http://fastiraz.epizy.com/error/error.html
+  url: https://fastiraz.github.io/404.html
+  code: https://fastiraz.github.io/404.html
   description:
     A FiveM server full optimized on RageUI with exclusives mappings and scripts.
   used:
@@ -83,8 +92,8 @@
     - thing: C#
 
 - name: Zeta (private)
-  url: http://fastiraz.epizy.com/error/error.html
-  code: http://fastiraz.epizy.com/error/error.html
+  url: https://fastiraz.github.io/404.html
+  code: https://fastiraz.github.io/404.html
   description: SFTP software with modern design.
   img: weather
   used:
