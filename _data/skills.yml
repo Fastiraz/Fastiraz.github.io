@@ -14,9 +14,13 @@ frameworks:
   - item: MySQL/MariaDB
   - item: Self-Hosting
   - item: Nextcloud
+  - item: Jellyfin
   - item: Apache2
   - item: pfSense FW
   - item: OpenVPN
+  - item: Assetto Corsa
+  - item: FiveM
+  - item: Minecraft
   - item: and more...
 
 tools:
