@@ -17,6 +17,21 @@
     - thing: MarkDown
     - thing: Text
 
+- name: Keylogger.
+  url: https://github.com/Fastiraz/keylogger/
+  code: https://github.com/Fastiraz/keylogger/
+  description: A python keylogger wich it send data by sockets.
+  used:
+    - thing: Python
+
+- name: CSearch.
+  url: https://github.com/Fastiraz/csearch
+  code: https://github.com/Fastiraz/csearch
+  description: An equivalent of GoBuster or DirSearch on C.
+  used:
+    - thing: C
+    - thing: TEXT
+
 - name: BForce
   url: https://github.com/Fastiraz/Brute-Force
   code: https://github.com/Fastiraz/Brute-Force
@@ -38,21 +53,7 @@
   description: A remade of hashcat just for fun and practice.
   used:
     - thing: C
-
-- name: Keylogger.
-  url: https://github.com/Fastiraz/keylogger/
-  code: https://github.com/Fastiraz/keylogger/
-  description: A python keylogger wich it send data by sockets.
-  used:
-    - thing: Python
-
-- name: Cearch. (dev...)
-  url: http://fastiraz.epizy.com/error/error.html
-  code: http://fastiraz.epizy.com/error/error.html
-  description: An equivalent of GoBuster or DirSearch on C.
-  used:
-    - thing: C
-    - thing: TEXT
+    - thing: Text
 
 - name: ANSSI Password Generator.
   url: https://github.com/Fastiraz/ANSSI-Password-Generator
@@ -76,6 +77,7 @@
     A FiveM server full optimized on RageUI with exclusives mappings and scripts.
   used:
     - thing: LUA
+    - thing: JS
     - thing: C
     - thing: MySQL
     - thing: C#
