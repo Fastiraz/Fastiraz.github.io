@@ -17,13 +17,6 @@
     - thing: MarkDown
     - thing: Text
 
-- name: Keylogger.
-  url: https://github.com/Fastiraz/keylogger/
-  code: https://github.com/Fastiraz/keylogger/
-  description: A python keylogger wich it send data by sockets.
-  used:
-    - thing: Python
-
 - name: CSearch.
   url: https://github.com/Fastiraz/csearch
   code: https://github.com/Fastiraz/csearch
@@ -31,6 +24,13 @@
   used:
     - thing: C
     - thing: TEXT
+
+- name: Keylogger.
+  url: https://github.com/Fastiraz/keylogger/
+  code: https://github.com/Fastiraz/keylogger/
+  description: A python keylogger wich it send data by sockets.
+  used:
+    - thing: Python
 
 - name: BForce
   url: https://github.com/Fastiraz/Brute-Force

@@ -6,11 +6,12 @@ languages:
   - item: SQL
   - item: Assembly
   - item: Lua
-  - item: JS
+  - item: NodeJS
 
 frameworks:
   - item: Docker
   - item: OS Hardening
+  - item: API
   - item: MySQL/MariaDB
   - item: Self-Hosting
   - item: Nextcloud
