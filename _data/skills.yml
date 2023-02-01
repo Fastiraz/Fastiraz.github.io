@@ -2,6 +2,7 @@ languages:
   - item: C#
   - item: C/C++
   - item: Python
+  - item: Golang
   - item: Bash
   - item: SQL
   - item: Assembly
