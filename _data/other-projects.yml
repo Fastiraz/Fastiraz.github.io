@@ -32,13 +32,12 @@
   used:
     - thing: Python
 
-- name: BForce
-  url: https://github.com/Fastiraz/Brute-Force
-  code: https://github.com/Fastiraz/Brute-Force
-  description: A python script for brute force most common protocols, files, URLs & simulate custom keystrokes.
+- name: Network Packet Sniffer. (NPS)
+  url: https://github.com/Fastiraz/NPS
+  code: https://github.com/Fastiraz/NPS
+  description: A network packet sniffer in language c.
   used:
-    - thing: Python
-    - thing: Text
+    - thing: C
 
 - name: Discord Bot (Fasty's bot)
   url: https://github.com/Fastiraz/Bot
@@ -46,6 +45,37 @@
   description: A Discord bot for music, ticket tool, logs.
   used:
     - thing: Python
+
+- name: CName
+  url: https://github.com/Fastiraz/cname
+  code: https://github.com/Fastiraz/cname
+  description: An OSInt tool that allow you to search usernames through social networks.
+  used:
+    - thing: C
+
+- name: COS
+  url: https://github.com/Fastiraz/cos
+  code: https://github.com/Fastiraz/cos
+  description: A simple script that determines the platform of the operating system in C.
+  used:
+    - thing: C
+
+- name: Password Generator
+  url: https://github.com/Fastiraz/Password-Generator
+  code: https://github.com/Fastiraz/Password-Generator
+  description: A password generator with a beautiful UI design.
+  used:
+    - thing: HTML
+    - thing: CSS
+    - thing: JS
+
+- name: BForce
+  url: https://github.com/Fastiraz/Brute-Force
+  code: https://github.com/Fastiraz/Brute-Force
+  description: A python script for brute force most common protocols, files, URLs & simulate custom keystrokes.
+  used:
+    - thing: Python
+    - thing: Text
 
 - name: hashcrack.
   url: https://github.com/Fastiraz/HashCrack
@@ -123,4 +153,3 @@
     - thing: JSON
     - thing: YML
     - thing: XML
-
