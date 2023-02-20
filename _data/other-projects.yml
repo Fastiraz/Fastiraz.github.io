@@ -60,7 +60,7 @@
   used:
     - thing: C
 
-- name: Password Generator (private)
+- name: Password Generator
   url: https://fastiraz.github.io/password-generator
   code: https://fastiraz.github.io/password-generator
   description: A password generator with a beautiful UI design.
