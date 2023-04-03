@@ -1,8 +1,9 @@
 languages:
-  - item: C#
   - item: C/C++
   - item: Python
+  - item: Rust
   - item: Golang
+  - item: C#
   - item: Bash
   - item: SQL
   - item: Assembly
