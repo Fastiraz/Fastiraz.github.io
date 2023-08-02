@@ -12,15 +12,19 @@
         yyyy = today.getFullYear(),
         nextYear = yyyy + 1,
         dayMonth = "08/22/",
-        birthday = dayMonth + yyyy;
+        date = dayMonth + yyyy;
 
     today = mm + "/" + dd + "/" + yyyy;
-    if (today > birthday) {
-        birthday = dayMonth + nextYear;
+    if (today > date) {
+        date = dayMonth + nextYear;
     }
     //end
 
-    const countDown = new Date(birthday).getTime(),
+    // Set the target end date to the desired date and 08:00 hours
+    let endDateTime = new Date(date);
+    endDateTime.setHours(8, 0, 0, 0); // 08:00 hours
+
+    const countDown = endDateTime.getTime(),
         x = setInterval(function () {
 
             const now = new Date().getTime(),
@@ -31,13 +35,13 @@
                 document.getElementById("minutes").innerText = Math.floor((distance % (hour)) / (minute)),
                 document.getElementById("seconds").innerText = Math.floor((distance % (minute)) / second);
 
-            //do something later when date is reached
+            //do something later when the date is reached
             if (distance < 0) {
-                document.getElementById("headline").innerText = "It's my birthday!";
+                document.getElementById("headline").innerText = "It's time!";
                 document.getElementById("countdown").style.display = "none";
                 document.getElementById("content").style.display = "block";
                 clearInterval(x);
             }
             //seconds
-        }, 0)
+        }, 0);
 }());
