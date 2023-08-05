@@ -17,7 +17,7 @@ body {
 
 body {
     align-items: center;
-    background-color: #c3a4f8;
+    background-color: #1B2430;
     display: flex;
     font-family: -apple-system,
         BlinkMacSystemFont,
@@ -31,7 +31,7 @@ body {
 }
 
 .container {
-    color: #333;
+    color: #c3a4f8;
     margin: 0 auto;
     text-align: center;
 }
