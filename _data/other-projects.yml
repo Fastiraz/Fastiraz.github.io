@@ -1,4 +1,4 @@
-- name: Softybox (private)
+- name: Penbox (private)
   url: https://fastiraz.github.io/404.html
   code: https://fastiraz.github.io/404.html
   description: A toolbox for pentester as a Windows software with an UI.
@@ -17,7 +17,7 @@
     - thing: MarkDown
     - thing: Text
 
-- name: CSearch.
+- name: CSearch
   url: https://github.com/Fastiraz/csearch
   code: https://github.com/Fastiraz/csearch
   description: An equivalent of GoBuster or DirSearch on C.
@@ -25,19 +25,26 @@
     - thing: C
     - thing: TEXT
 
-- name: Keylogger.
+- name: GOSINT
+  url: https://github.com/Fastiraz/gosint
+  code: https://github.com/Fastiraz/gosint
+  description: A Swiss Army Knife OSINT tool.
+  used:
+    - thing: Golang
+
+- name: Keylogger
   url: https://github.com/Fastiraz/keylogger/
   code: https://github.com/Fastiraz/keylogger/
   description: A python keylogger wich it send data by sockets.
   used:
     - thing: Python
 
-- name: Network Packet Sniffer. (NPS)
-  url: https://github.com/Fastiraz/NPS
-  code: https://github.com/Fastiraz/NPS
-  description: A network packet sniffer in language c.
+- name: Shellgen
+  url: https://fastiraz.github.io/404.html
+  code: https://fastiraz.github.io/404.html
+  description: A python shellcode generator.
   used:
-    - thing: C
+    - thing: Python
 
 - name: Discord Bot (Fasty's bot)
   url: https://github.com/Fastiraz/Bot
@@ -45,20 +52,6 @@
   description: A Discord bot for music, ticket tool, logs.
   used:
     - thing: Python
-
-- name: CName
-  url: https://github.com/Fastiraz/cname
-  code: https://github.com/Fastiraz/cname
-  description: An OSInt tool that allow you to search usernames through social networks.
-  used:
-    - thing: C
-
-- name: COS
-  url: https://github.com/Fastiraz/cos
-  code: https://github.com/Fastiraz/cos
-  description: A simple script that determines the platform of the operating system in C.
-  used:
-    - thing: C
 
 - name: Password Generator
   url: https://fastiraz.github.io/password-generator
@@ -76,30 +69,6 @@
   used:
     - thing: Python
     - thing: Text
-
-- name: hashcrack.
-  url: https://github.com/Fastiraz/HashCrack
-  code: https://github.com/Fastiraz/HashCrack
-  description: A remade of hashcat just for fun and practice.
-  used:
-    - thing: C
-    - thing: Text
-
-- name: ANSSI Password Generator.
-  url: https://github.com/Fastiraz/ANSSI-Password-Generator
-  code: https://github.com/Fastiraz/ANSSI-Password-Generator
-  description: A cSharp script that allow you to generate password that fit with ANSSI recommandation.
-  used:
-    - thing: C#
-
-- name: Shell
-  url: https://fastiraz.github.io/shell/
-  code: https://fastiraz.github.io/shell/
-  description: A shell as a web page with some easter eggs.
-  used:
-    - thing: HTML
-    - thing: CSS
-    - thing: JS
 
 - name: Light (private)
   url: https://fastiraz.github.io/404.html
@@ -128,18 +97,6 @@
   img: weather
   used:
     - thing: C#
-
-# - name: ScreenTime 2.0
-#   url: https://play.google.com/store/apps/details?id=com.starry.management
-#   description: App-blocking feature on <a class="underline-link" href="https://starry.com/station" target="_blank">Starry Station</a> that provides functionality for users to easily filter content, pause the internet, and even create custom rules for blocking apps like Facebook and Twitter right from their mobile phones. Learn more about ScreenTime 2.0 on <a class="underline-link" href="https://www.producthunt.com/tech/screentime-for-starry-station" target="_blank">Product Hunt</a> and the <a class="underline-link" href="https://blog.starry.com/whats-new-screentime-just-got-better-for-parents/" target="_blank">Starry Blog</a>.
-#   used:
-#   - thing: JavaScript
-#   - thing: CSS
-#   - thing: Handlebars
-#   - thing: Backbone
-#   - thing: Marionette
-#   - thing: Cordova
-
 
 - name: This website.
   url: https://github.com/bchiang7
