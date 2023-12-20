@@ -1,0 +1,56 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(20, 29, 43);
+}
+
+.container {
+    position: relative;
+}
+
+img {
+    max-width: 30%;
+    max-height: 30%;
+}
+
+h1 {
+    font-family: 'JetBrains Mono', monospace;
+    color: #fff;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+p {
+    font-family: 'JetBrains Mono', monospace;
+    color: #fff;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1 a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.glass-button {
+    display: inline-block;
+    padding: 24px 32px;
+    border: 0;
+    text-decoration: none;
+    border-radius: 15px;
+    background-color: rgba(255,255,255,0.1);
+    border: 1px solid rgba(255,255,255,0.1);
+    backdrop-filter: blur(30px);
+    color: rgba(255,255,255,0.8);
+    font-size: 14px;
+    letter-spacing: 2px;
+    cursor: pointer;
+    text-transform: uppercase;
+  }
